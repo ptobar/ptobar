@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ptobar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ptobar/ptobar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola. Soy @ptobar.
+Ingeniero mecánico industrial de profesión. Mi vocaciòn es el diseño y construcción de máquinas. Experiencia en mantenimiento industrial. Diplomado en electrónica analógica. Estudiante autodidacta en electrónica digital, control electrónico, automatización de procesos máquinas herramientas CNC y mecatrónica.
+Hoy estoy interesado en los programas de diseño electrónico, simuladores, convertidores a PCB y lenguajes de programación.
+Uso el SO: Linux Mint como mi primer LINUX.
+Practico electrónica analógica para luego pasar a digital y programación de IC. También uso los recursos de ARDUINO.
+Quiero colaborar con otros estudiantes con vocación en diseño y construcción de máquinas,incluyendo CNC.
+Mis contactos: 
+telegram: @ptobarm.
+correo electrónico: pedro.tobar@gmail.com
